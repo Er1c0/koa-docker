@@ -1,5 +1,4 @@
 FROM node:11
-MAINTAINER easydoc.net
 
 # 复制代码
 ADD . /app
